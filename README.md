@@ -28,6 +28,7 @@ The same key is required for decryption.
 
 
 
+
 # 📦 Installation
 
 ```bash
