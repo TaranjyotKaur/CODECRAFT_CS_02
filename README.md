@@ -2,7 +2,7 @@
 
 
 
-# 2️ Image Encryption Tool 
+#  Image Encryption Tool 
 
 
 #  Simple Image Encryption Tool
