@@ -2,14 +2,14 @@
 
 
 
-# 2️⃣ Image Encryption Tool 
+# 2️ Image Encryption Tool 
 
 
-# 🖼️ Simple Image Encryption Tool
+#  Simple Image Encryption Tool
 
 A Python tool that encrypts and decrypts images using pixel manipulation techniques.
 
-## 📌 Project Overview
+# Project Overview
 
 This project applies:
 - XOR-based pixel transformation
@@ -20,7 +20,7 @@ The same key is required for decryption.
 
 
 
-## 🛠 Technologies Used
+# 🛠 Technologies Used
 
 - Python 3
 - Pillow (PIL)
@@ -28,7 +28,7 @@ The same key is required for decryption.
 
 
 
-## 📦 Installation
+# 📦 Installation
 
 ```bash
 pip install pillow numpy
