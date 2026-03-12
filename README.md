@@ -1,7 +1,3 @@
-
-#  Image Encryption Tool 
-
-
 #  Simple Image Encryption Tool
 
 A Python tool that encrypts and decrypts images using pixel manipulation techniques.
